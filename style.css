@@ -169,6 +169,6 @@ p {
 
 @media only screen and (max-width: 640px) {
     .welcome {
-        font-size: 48px;
+        font-size: 42px;
     }
 }
