@@ -56,12 +56,12 @@ p {
 }
 
 .content_box--header {
-    font-size: 94px;
+    font-size: 86px;
     font-weight: 600;
 }
 
 .content_box--content {
-    font-size: 32px;
+    font-size: 28px;
 }
 
 .background {
@@ -128,7 +128,7 @@ p {
     }
 
     .content_box--header {
-        font-size: 72px;
+        font-size: 64px;
     }
 
     .content_box--content {
